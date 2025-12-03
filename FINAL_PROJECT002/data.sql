@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS ml_user (
+    email VARCHAR(255) PRIMARY KEY,
+    pwd TEXT NOT NULL,
+    tokens INT DEFAULT 15
+);
