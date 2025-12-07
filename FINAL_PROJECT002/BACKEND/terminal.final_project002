@@ -1,0 +1,5 @@
+####### if not in package use without backend ######
+########## use different ports, (8000, 8001, 9000) #########
+
+
+uvicorn backend.final_project002:app --reload --port 9000
