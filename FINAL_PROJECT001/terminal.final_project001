@@ -1,0 +1,13 @@
+uvicorn final_project001:app --reload ####### in terminal #######
+
+features = ["age","salary","rooms"] ##### SWAGGER UI  ######
+
+label = price 
+
+employee_data.csv ##### DATASET
+
+http://127.0.0.1:8000/docs
+
+http://127.0.0.1:8000/train
+
+http://127.0.0.1:8000/predict 
