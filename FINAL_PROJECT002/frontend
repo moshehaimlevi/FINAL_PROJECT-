@@ -1,7 +1,0 @@
-frontend/
- ├── app_auth.py
- ├── app_train.py
- ├── app_predict.py
- ├── app_admin.py
- └── config.py
- 
