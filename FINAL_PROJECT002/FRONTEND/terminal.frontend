@@ -1,0 +1,11 @@
+######## if not in package run without frontend/ ########
+
+streamlit run frontend/app_auth.py
+
+streamlit run frontend/app_train.py
+
+streamlit run frontend/app_admin.py
+
+streamlit run frontend/app_train.py
+
+streamlit run frontend/app_predict.py
